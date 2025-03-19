@@ -23,7 +23,7 @@ Currently unraveling the complexities of Computer Science at **Minerva Universit
 - **Frameworks**: Flask (built RESTful APIs that process 10k+ requests per minute), Node.js (optimized for async-heavy applications), SQLAlchemy, Scikit-learn, Seaborn
 - **Databases**: PostgreSQL, MySQL (Optimized multi-table joins, indexing strategies, and query refactoring for 10x speedups)
 - **Data Tools**: Pandas (handling large datasets like a pro), NumPy, Seaborn, GeoJSON, Matplotlib
-- **DevOps & Tools**: Git, Docker, CI/CD pipelines, Kubernetes, Terraform (Infrastructure as code to keep systems 100% automated)
+- **DevOps & Tools**: Git, CI/CD pipelines (Infrastructure as code to keep systems 100% automated)
 - **Cloud Platforms**: AWS (EC2, RDS, S3), Render (deployment), Heroku, Vercel, and Firebase.
 
 ---
