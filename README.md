@@ -5,7 +5,6 @@
 Welcome to my realm, where backend sorcery meets data alchemy, and where only the most performant, optimized, and scalable systems survive. I engineer architectures that scale like a rocket and optimize systems to the core with low-level optimizations that will make your CPU high-five you. From mastering Python to conjuring SQL queries that execute faster than you can blink, I'm the architect of your next big tech breakthrough.
 
 ---
-
 ## **About Me**
 
 Currently unraveling the complexities of Computer Science at **Minerva University**, I’m on a journey to master **Data Structures, Algorithms**, and **Machine Learning** like a mad scientist who’s obsessed with efficiency. What drives me? Creating systems that don't just work—they break performance barriers.
