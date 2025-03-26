@@ -6,31 +6,6 @@ Welcome to my realm, where backend sorcery meets data alchemy, and where only th
 
 ---
 
-<!-- Hero Section with Logo Icons -->
-<div align="center">
-    <h1>✨ Welcome to the Realm of Code Wizardry ✨</h1>
-    <h2>⚡ Backend Wizard | Data Alchemist | Tech Sorcerer 🔮</h2>
-    <p>"I turn algorithms into scalable magic, databases into performance beasts, and code into optimized, high-impact solutions."</p>
-    <br>
-
-    <!-- Programming Language Logos with Hover Effects -->
-    <div style="display: flex; justify-content: center; gap: 40px;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" style="width: 80px; cursor: pointer; transition: transform 0.3s;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/a/a2/Flask.svg" alt="Flask" style="width: 80px; cursor: pointer; transition: transform 0.3s;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Logo_nodejs.svg" alt="Node.js" style="width: 80px; cursor: pointer; transition: transform 0.3s;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Postgresql_elephant.svg" alt="PostgreSQL" style="width: 80px; cursor: pointer; transition: transform 0.3s;">
-    </div>
-
-    <!-- CSS for Hover Effect (works within GitHub) -->
-    <style>
-        img:hover {
-            transform: scale(1.2);
-        }
-    </style>
-</div>
-
----
-
 ## **About Me**
 
 Currently unraveling the complexities of Computer Science at **Minerva University**, I’m on a journey to master **Data Structures, Algorithms**, and **Machine Learning** like a mad scientist who’s obsessed with efficiency. What drives me? Creating systems that don't just work—they break performance barriers.
@@ -44,26 +19,12 @@ Currently unraveling the complexities of Computer Science at **Minerva Universit
 
 ## ⚡ **Skills & Technologies**  
 
-<div align="center">
-    <div style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap; font-size: 18px;">
-        <div style="text-align: center;">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" style="width: 60px; cursor: pointer;">
-            <p>Python</p>
-        </div>
-        <div style="text-align: center;">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/a/a2/Flask.svg" alt="Flask" style="width: 60px; cursor: pointer;">
-            <p>Flask</p>
-        </div>
-        <div style="text-align: center;">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Logo_nodejs.svg" alt="Node.js" style="width: 60px; cursor: pointer;">
-            <p>Node.js</p>
-        </div>
-        <div style="text-align: center;">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Postgresql_elephant.svg" alt="PostgreSQL" style="width: 60px; cursor: pointer;">
-            <p>PostgreSQL</p>
-        </div>
-    </div>
-</div>
+- **Languages**: Python, SQL, JavaScript (Eager to conquer Rust, C++, and Go soon)
+- **Frameworks**: Flask (built RESTful APIs that process 10k+ requests per minute), Node.js (optimized for async-heavy applications), SQLAlchemy, Scikit-learn, Seaborn
+- **Databases**: PostgreSQL, MySQL (Optimized multi-table joins, indexing strategies, and query refactoring for 10x speedups)
+- **Data Tools**: Pandas (handling large datasets like a pro), NumPy, Seaborn, GeoJSON, Matplotlib
+- **DevOps & Tools**: Git, CI/CD pipelines (Infrastructure as code to keep systems 100% automated)
+- **Cloud Platforms**: AWS (EC2, RDS, S3), Render (deployment), Heroku, Vercel, and Firebase.
 
 ---
 
@@ -83,7 +44,6 @@ Currently unraveling the complexities of Computer Science at **Minerva Universit
 - **Galactic Problem Solver Certificate** | NASA Space Apps Challenge (October 2024)  
   *Recognized for innovative contributions that could impact global sustainability and space exploration efforts.*
 
----
 
 ## 📬 **Contact Information**
 
@@ -97,4 +57,3 @@ Currently unraveling the complexities of Computer Science at **Minerva Universit
 ### "Turning lines of code into scalable, efficient, and optimized solutions" 🔥
 
 ---
-
