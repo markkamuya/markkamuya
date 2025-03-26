@@ -14,6 +14,7 @@ Currently unraveling the complexities of Computer Science at **Minerva Universit
 - Perfecting web development mastery and technical interview strategies with **CodePath**.
 - Getting deep into **Machine Learning** pipelines and automating data wrangling like a wizard with **Pandas**.
 - Building ultra-scalable backends using **Flask**, **Node.js**, and **SQLAlchemy** to create systems that power millions of transactions and requests without a hiccup.
+  
 ---
 
 ## ⚡ **Skills & Technologies**  
