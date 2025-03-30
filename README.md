@@ -1,4 +1,3 @@
-# **Personal Portfolio & Projects**  
 ## 🔥 Backend Wizard | Data Alchemist | Tech Sorcerer 🔮
 
 ### **“I turn algorithms into scalable magic, databases into performance beasts, and code into optimized, high-impact solutions."**  
