@@ -43,14 +43,6 @@ Currently unraveling the complexities of Computer Science at **Minerva Universit
 - **Galactic Problem Solver Certificate** | NASA Space Apps Challenge (October 2024)  
   *Recognized for innovative contributions that could impact global sustainability and space exploration efforts.*
 
-
-## 📬 **Contact Information**
-
-- **Email**: [mark.kamuya@uni.minerva.edu](mailto:mark.kamuya@uni.minerva.edu)
-- **LinkedIn**: [linkedin.com/in/mark-kamuya](https://www.linkedin.com/in/mark-kamuya-4174b2266/)
-- **GitHub**: [github.com/markkamuya](https://github.com/markkamuya)
-- **Personal Website**: [markkamuya.github.io](https://myportfolio-one-brown-83.vercel.app/)
-
 ---
 
 ### "Turning lines of code into scalable, efficient, and optimized solutions" 🔥
