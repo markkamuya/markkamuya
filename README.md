@@ -25,7 +25,7 @@ CS @ **Minerva University**
 ---
 
 ## 🏅 Recognition  
-- **Winner** – GDSC Hack the Interview (Oct 2024)  
+- **Winner – GDSC Hack the Interview (Oct 2024)**  
   Solved algorithmic challenges under pressure. Invited to Google.
 
 - **NASA Space Apps Challenge – Galactic Problem Solver (Oct 2024)**  
