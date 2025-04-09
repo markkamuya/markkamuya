@@ -1,7 +1,6 @@
 ## Backend Engineer | Systems Optimization
 
 ### “Optimized, high-impact solutions.”  
-I build systems that are fast, scalable, and production-ready.
 
 ---
 
