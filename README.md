@@ -36,4 +36,3 @@ CS @ **Minerva University**
 ## 📜 Certifications  
 - Intermediate ML: Kaggle
 - Data Analysis with Python: freeCodeCamp
-- Intermediate SQL: Sololearn
