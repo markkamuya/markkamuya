@@ -1,7 +1,7 @@
 ## Backend Engineer | Systems Optimization
 
 ### “Optimized, high-impact solutions.”  
- 
+
 ---
 
 ## About Me  
