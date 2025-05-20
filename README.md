@@ -3,6 +3,7 @@
 ### “Optimized, high-impact solutions.”  
 ---
 
+
 ## About Me  
 CS @ **Minerva University**
 
