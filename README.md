@@ -19,7 +19,7 @@ CS @ **Minerva University**
 - **Frameworks**: Flask, Node.js, SQLAlchemy  
 - **Databases**: PostgreSQL, MySQL (10x optimization via indexing + joins)  
 - **Data/ML**: Pandas, Scikit-learn, Matplotlib  
-- **Cloud & DevOps**: AWS (EC2, RDS), Render, Heroku, GitHub Actions
+- **Cloud & DevOps**: AWS (EC2, RDS), Render, Vercel, GitHub Actions
 
 ---
 
