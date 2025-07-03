@@ -22,16 +22,3 @@ CS @ **Minerva University**
 - **Cloud & DevOps**: AWS (EC2, RDS), Render, Vercel, GitHub Actions
 
 ---
-
-## 🏅 Recognition  
-- **Winner – GDSC Hack the Interview (Oct 2024)**  
-  Solved algorithmic challenges under pressure. Invited to Google.
-
-- **NASA Space Apps Challenge – Galactic Problem Solver (Oct 2024)**  
-  Built scalable real-time arid-water alert system
-
----
-
-## 📜 Certifications  
-- Intermediate ML: Kaggle
-- Data Analysis with Python: freeCodeCamp
